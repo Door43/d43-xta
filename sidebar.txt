@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xta:home|Door43 (xta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xta|d43-xta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xta/archive/master.zip|d43-xta.zip]]
+
+**Recent Changes**
+{{changes>ns = xta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xta|Ethnologue data]]
+
